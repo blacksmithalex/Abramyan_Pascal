@@ -1,4 +1,4 @@
-program If5;
+program For5;
 var
     p: real;
     i: integer;

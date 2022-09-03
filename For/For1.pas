@@ -1,4 +1,4 @@
-program If1;
+program For1;
 var
     K, N, i: integer;
 begin

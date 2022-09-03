@@ -1,4 +1,4 @@
-program If10;
+program For10;
 var
     N, i: integer;
     S: real;
