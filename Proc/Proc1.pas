@@ -2,7 +2,7 @@ program Proc1;
 
 procedure PowerA3(A: Real; var B: Real);
 begin
-    B:= A * A * A
+    B:= A * A * A;
 end;
 
 var
