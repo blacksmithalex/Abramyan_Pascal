@@ -1,0 +1,1 @@
+program Proc17;function RootsCount(A, B, C: Real): Integer;var   D: Real;begin  D:= sqr(B) - 4 * A * C;  if D < 0 then RootsCount:= 0;   if D = 0 then RootsCount:= 1;  if D > 0 then RootsCount:= 2;end;var   A, B, C:Real;begin  readln(A);  readln(B);  readln(C);  writeln(RootsCount(A,B,C));end.
