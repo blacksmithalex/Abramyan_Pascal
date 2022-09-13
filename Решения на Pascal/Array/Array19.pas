@@ -1,0 +1,1 @@
+program array19;var     a:array [1..10] of integer;    k, last:integer;begin    for k:= 1 to 10 do readln(a[k]);    last = 0;    for k:= 2 to 9 do    begin        if (a[k] > a[1]) and (a[k] < a[10]) then last:= a[k];    end;    writeln(last);end.
