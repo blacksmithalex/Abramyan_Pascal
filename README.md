@@ -6,6 +6,4 @@
 
 Онлайн компилятор С++: https://www.onlinegdb.com/online_c++_compiler
 
-Д/з:
-
-1. Задачи по теме Array
+Онлайн компилятор С: https://www.onlinegdb.com/online_c_compiler
