@@ -7,3 +7,5 @@
 Онлайн компилятор С++: https://www.onlinegdb.com/online_c++_compiler
 
 Онлайн компилятор С: https://www.onlinegdb.com/online_c_compiler
+
+Онлайн компилятор Python: https://www.onlinegdb.com/online_python_compiler
